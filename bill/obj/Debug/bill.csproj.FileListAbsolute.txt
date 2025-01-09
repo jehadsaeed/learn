@@ -1,0 +1,10 @@
+C:\Users\jehad\Desktop\bill\bin\Debug\bill.exe.config
+C:\Users\jehad\Desktop\bill\bin\Debug\bill.exe
+C:\Users\jehad\Desktop\bill\bin\Debug\bill.pdb
+C:\Users\jehad\Desktop\bill\obj\Debug\bill.csproj.AssemblyReference.cache
+C:\Users\jehad\Desktop\bill\obj\Debug\bill.Form1.resources
+C:\Users\jehad\Desktop\bill\obj\Debug\bill.Properties.Resources.resources
+C:\Users\jehad\Desktop\bill\obj\Debug\bill.csproj.GenerateResource.cache
+C:\Users\jehad\Desktop\bill\obj\Debug\bill.csproj.CoreCompileInputs.cache
+C:\Users\jehad\Desktop\bill\obj\Debug\bill.exe
+C:\Users\jehad\Desktop\bill\obj\Debug\bill.pdb
