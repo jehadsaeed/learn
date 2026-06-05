@@ -10,8 +10,7 @@
 
 namespace bill.Properties
 {
-
-//jehad
+//jakgdskj
     /// <summary>
     ///   A strongly-typed resource class, for looking up localized strings, etc.
     /// </summary>
